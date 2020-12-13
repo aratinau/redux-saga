@@ -22,4 +22,5 @@ sagaMiddleware.run(rootSaga)
     1 : store
     2 : rootSaga
     3 : loadNotesSaga et saveNotesSaga
+    4 : LOAD_NOTES actions
 */
